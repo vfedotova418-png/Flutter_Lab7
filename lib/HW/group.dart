@@ -9,7 +9,7 @@ class Group extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Text(
-          'ИСП-232',
+          'Группа: ИСП-232',
           style: const TextStyle(
             fontSize: 16,
             color: Colors.white,

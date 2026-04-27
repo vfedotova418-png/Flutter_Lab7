@@ -9,7 +9,7 @@ class Fio extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Text(
-          'Федотова В.С.',
+          'ФИО: Федотова В.С.',
           style: const TextStyle(
             fontSize: 26,
             fontWeight: FontWeight.bold,
