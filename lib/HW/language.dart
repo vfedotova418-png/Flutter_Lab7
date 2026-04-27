@@ -11,8 +11,8 @@ class Language extends StatelessWidget {
         Text(
           'Любимый язык программирования: C#',
           style: const TextStyle(
-            fontSize: 18,
-            color: Colors.cyan,
+            fontSize: 20,
+            color: Colors.white,
           ),
         ),
       ],

@@ -11,9 +11,8 @@ class Group extends StatelessWidget {
         Text(
           'ИСП-232',
           style: const TextStyle(
-            fontSize: 20,
-            fontStyle: FontStyle.italic,
-            color: Colors.lightBlueAccent,
+            fontSize: 16,
+            color: Colors.white,
           ),
         ),
       ],
