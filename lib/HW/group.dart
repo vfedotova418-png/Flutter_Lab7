@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class Fio extends StatelessWidget {
-  const Fio({super.key});
+class Group extends StatelessWidget {
+  const Group({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -9,11 +9,11 @@ class Fio extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Text(
-          'Федотова В.С.',
+          'ИСП-232',
           style: const TextStyle(
-            fontSize: 24,
-            fontWeight: FontWeight.bold,
-            color: Colors.indigoAccent,
+            fontSize: 20,
+            fontStyle: FontStyle.italic,
+            color: Colors.lightBlueAccent,
           ),
         ),
       ],
